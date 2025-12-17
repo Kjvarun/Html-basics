@@ -43,7 +43,7 @@
     <p>Team-bonding,Web designing</p>
     
     <p style="color: rgb(1, 87, 1)">Across the Internet</p>
-    <a href="surajrock/linkedin.com">surajrock/linkedin.com</a>
+    <a href="https://roadmap.sh/projects/single-page-cv">surajrock/linkedin.com</a>
  
 </div>
 
